@@ -1,0 +1,14 @@
+{
+  "name": "Algorithms and Data Structures",
+  "version": "0.0.1",
+  "description": "The Coding Interview Bootcamp: Algorithms + Data Structures",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Andrey Kuznetsov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*"
+  }
+}
